@@ -1,0 +1,38 @@
+.history-item {
+  display: flex;
+  flex-direction: row;
+  padding: 5px;
+  align-items: center;
+  margin: 5px;
+}
+.time {
+  font-size: 15px;
+  color: #475569;
+  margin: 5px;
+}
+.logo {
+  width: 23px;
+  height: 23px;
+  margin: 5px;
+}
+.title {
+  font-size: 15px;
+  color: #475569;
+  margin: 5px;
+}
+.url {
+  font-size: 13px;
+  color: #64748b;
+  margin: 5px;
+}
+.dlt-logo {
+  width: 16px;
+  height: 16px;
+  background-color: #ffffff;
+  text-align: right;
+}
+.btn {
+  background-color: #ffffff;
+  border-width: 0px;
+  margin-right: 2px;
+}
